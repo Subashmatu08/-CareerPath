@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Name",
+    "ShortDesc": "lorem23",
+    "LongDesc": "Lorem342",
+    "ImageUrl": "https://asdlfkjasd.png",
+    "References": ["link1, link2, link3"],
+    "Steps from here": ["link1", "link2"]
+  },
+
+  {
+    "Name": "Name",
+    "ShortDesc": "lorem23",
+    "LongDesc": "Lorem342",
+    "ImageUrl": "https://asdlfkjasd.png",
+    "References": ["link1, link2, link3"],
+    "Steps from here": ["link1", "link2"]
+  }
+]
