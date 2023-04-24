@@ -1,20 +1,20 @@
 [
   {
     "Name": "Name1",
-    "ShortDesc": "lorem23",
-    "LongDesc": "Lorem342",
-    "ImageUrl": "https://asdlfkjasd.png",
-    "References": ["link1, link2, link3"],
-    "NextSteps": ["link1", "link2"]
+    "ShortDesc": "lorem1short",
+    "LongDesc": "Lorem1long",
+    "ImageUrl": "https://name1.png",
+    "References": ["rlink11", "rlink12", "rlink13"],
+    "NextSteps": ["Nlink11", "Nlink12"]
   },
 
   {
     "Name": "Name2",
-    "ShortDesc": "lorem23",
-    "LongDesc": "Lorem342",
-    "ImageUrl": "https://asdlfkjasd.png",
-    "References": ["link1, link2, link3"],
-    "NextSteps": ["link1", "link2"]
+    "ShortDesc": "lorem2short",
+    "LongDesc": "Lorem2long",
+    "ImageUrl": "https://name2.png",
+    "References": ["rlink21", "rlink22", "rlink23"],
+    "NextSteps": ["Nlink21", "Nlink22"]
   }
 ]
 
