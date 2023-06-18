@@ -10,7 +10,7 @@
   },
 
   {
-    "Name": "Name2",
+    "UrlName": "Name2",
     "Name": "Name 2",
     "ShortDesc": "lorem2short",
     "LongDesc": "Lorem2long",
@@ -20,7 +20,7 @@
   },
   
   {
-    "Name": "10thGrade",
+    "UrlName": "10thGrade",
     "Name": "10th Grade",
     "ShortDesc": "This is the desc of 10th grade",
     "LongDesc": "this is the long desc of 10th gradeee",
