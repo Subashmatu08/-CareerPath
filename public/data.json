@@ -1,6 +1,7 @@
 [
   {
-    "Name": "Name1",
+    "UrlName": "Name1",
+    "Name": "Name 1",
     "ShortDesc": "lorem1short",
     "LongDesc": "Lorem1long",
     "ImageUrl": "https://name1.png",
@@ -10,6 +11,7 @@
 
   {
     "Name": "Name2",
+    "Name": "Name 2",
     "ShortDesc": "lorem2short",
     "LongDesc": "Lorem2long",
     "ImageUrl": "https://name2.png",
@@ -19,6 +21,7 @@
   
   {
     "Name": "10thGrade",
+    "Name": "10th Grade",
     "ShortDesc": "This is the desc of 10th grade",
     "LongDesc": "this is the long desc of 10th gradeee",
     "ImageUrl": "https://10thgradepic.png",
