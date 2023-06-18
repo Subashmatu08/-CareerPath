@@ -19,27 +19,15 @@
     "NextSteps": ["Nlink21", "Nlink22"]
   },
   
-  {
-    "UrlName": "10thGrade",
-    "Name": "10th Grade",
-    "ShortDesc": "This is the desc of 10th grade",
-    "LongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-      accusantium a rerum obcaecati veniam aliquam libero ipsa amet autem
-      distinctio deleniti consectetur corporis animi aspernatur, quibusdam,
-      ullam consequuntur. Sunt officia recusandae nemo accusamus odit
-      perspiciatis architecto deserunt ab inventore est. Reprehenderit quas,
-      aspernatur voluptates maiores eaque magnam officia vel corrupti rem ea est
-      illo quasi. Illo ullam, corrupti nam eaque vero quo culpa, tempore impedit
-      quasi amet natus repudiandae alias fugiat aut incidunt! Autem dolores
-      voluptatem ea laudantium non, iure deleniti voluptas, architecto quasi
-      repudiandae maxime. Cumque ducimus maxime, molestiae voluptate totam
-      tempora aspernatur. Ipsam nostrum nam itaque! Deleniti harum, molestiae
-      voluptatibus optio ipsa dolorum similique alias quia odio itaque eum
-      mollitia! Omnis unde similique accusantium dignissimos. Assumenda, quia
-      voluptas.",
-    "ImageUrl": "https://10thgradepic.png",
-    "References": ["https://www.teachervision.com/grades/10th-grade", "https://in.ixl.com/english/class-x", "https://highschoolofamerica.com/10th-grade-classes/"],
-    "NextSteps": ["MPC", "BiPC", "HEC"]
-  }
+{
+  "UrlName": "10thGrade",
+  "Name": "10th Grade",
+  "ShortDesc": "This is the desc of 10th grade",
+  "LongDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores accusantium a rerum obcaecati veniam aliquam libero ipsa amet autem distinctio deleniti consectetur corporis animi aspernatur, quibusdam, ullam consequuntur. Sunt officia recusandae nemo accusamus odit perspiciatis architecto deserunt ab inventore est. Reprehenderit quas, aspernatur voluptates maiores eaque magnam officia vel corrupti rem ea est illo quasi. Illo ullam, corrupti nam eaque vero quo culpa, tempore impedit quasi amet natus repudiandae alias fugiat aut incidunt! Autem dolores voluptatem ea laudantium non, iure deleniti voluptas, architecto quasi repudiandae maxime. Cumque ducimus maxime, molestiae voluptate totam tempora aspernatur. Ipsam nostrum nam itaque! Deleniti harum, molestiae voluptatibus optio ipsa dolorum similique alias quia odio itaque eum mollitia! Omnis unde similique accusantium dignissimos. Assumenda, quia voluptas.",
+  "ImageUrl": "https://10thgradepic.png",
+  "References": ["https://www.teachervision.com/grades/10th-grade", "https://in.ixl.com/english/class-x", "https://highschoolofamerica.com/10th-grade-classes/"],
+  "NextSteps": ["MPC", "BiPC", "HEC"]
+}
+
 ]
 
