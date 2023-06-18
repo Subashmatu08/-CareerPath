@@ -15,6 +15,15 @@
     "ImageUrl": "https://name2.png",
     "References": ["rlink21", "rlink22", "rlink23"],
     "NextSteps": ["Nlink21", "Nlink22"]
+  },
+  
+  {
+    "Name": "10thGrade",
+    "ShortDesc": "This is the desc of 10th grade",
+    "LongDesc": "this is the long desc of 10th gradeee",
+    "ImageUrl": "https://10thgradepic.png",
+    "References": ["link1for10thgrade, link2, link3"],
+    "NextSteps": ["link1for10thgrade", "link2"]
   }
 ]
 
